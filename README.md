@@ -1,2 +1,2 @@
-# 10class
-link - https://abhyuday911.github.io/10class/
+# 9brandsOfSacrifice
+link - https://abhyuday911.github.io/9brandsOfSacrifice/
